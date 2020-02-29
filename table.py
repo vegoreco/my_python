@@ -2,21 +2,21 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 23,
+   "execution_count": 1,
    "metadata": {},
    "outputs": [
     {
      "name": "stdin",
      "output_type": "stream",
      "text": [
-      "Введите атомный номер химического элемента: 3\n"
+      "Введите атомный номер химического элемента: 80\n"
      ]
     },
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Химический элемент, который имеет атомный номер 3 это \u001b[1mLi\n"
+      "Химический элемент, который имеет атомный номер 80 это \u001b[1mHg\n"
      ]
     }
    ],
